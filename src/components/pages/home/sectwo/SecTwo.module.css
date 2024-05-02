@@ -1,0 +1,65 @@
+.secTwo {
+  width: 100%;
+  background-image: url(../../../../assets/backtr.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 120px;
+  padding-bottom: 240px;
+  transform: translateY(-35px);
+}
+
+.one {
+  width: 45%;
+  padding: 30px;
+  background-color: #0c6bc533;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.one img {
+  width: 100%;
+  object-fit: cover;
+  -o-object-position: center;
+  object-position: center;
+}
+
+.title {
+  font-family: Unbounded;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 48px;
+  text-align: left;
+  color: #ffffff;
+  width: 632px;
+  margin-bottom: 15px;
+}
+
+.text {
+  font-family: TT Norms;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.link {
+  font-family: TT Norms;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28.32px;
+  text-align: left;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.photo {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-bottom: 25px;
+}

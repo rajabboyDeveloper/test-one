@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  align-items: center;
+}
+.one {
+  width: 50%;
+  padding: 20px;
+  background-color: aqua;
+}
+.card img {
+  width: 376px !important;
+  height: 300px;
+}

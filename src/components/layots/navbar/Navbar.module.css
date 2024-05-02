@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.link {
+    font-family: TT Norms;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: left;
+    color: rgba(8, 1, 1, 0.65);
+    text-decoration: none;
+}
+
+.btn {
+    width: 228px;
+    height: 56px;
+    border-radius: 48px;
+    background-color: #86BDEE;
+    font-family: TT Norms;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.6px;
+    text-align: left;
+    color: #FFFFFF;
+    border: 0;
+    text-align: center;
+    cursor: pointer;
+}
